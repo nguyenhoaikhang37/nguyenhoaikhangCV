@@ -47,6 +47,25 @@ export const projects = [
     visit: "https://github.com/nguyenhoaikhang37/MassiveWebsite",
     id: 4,
   },
+  {
+    title: "Uber eats clone",
+    description: "",
+    image:
+      "https://wiki.tino.org/wp-content/uploads/2020/10/react-native-final-file.jpg",
+    tags: ["React Native", "Redux"],
+    source: "https://www.youtube.com/watch?v=GNGsNdAHDXk",
+    visit: "https://github.com/nguyenhoaikhang37/uber-eats-reactnative",
+    id: 5,
+  },
+  {
+    title: "2 hand sold app",
+    description: "",
+    image: "https://isoftglobe.com/wp-content/uploads/2021/02/react-native.png",
+    tags: ["React Native", "Formik", "Yup"],
+    source: "https://youtu.be/qv4QNfPzsO8",
+    visit: "https://github.com/nguyenhoaikhang37/2HandSoldApp",
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
